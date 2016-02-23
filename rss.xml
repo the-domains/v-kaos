@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[V-kaos]]></title>
+        <description><![CDATA[V-kaos]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 23 Feb 2016 07:40:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[V-kaos introduction]]></title>
+            <description><![CDATA[<article><h1>V-kaos introduction</h1><p>V-kaos is an experimental black metal / dark ambient project created by V.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1979f3300a36fd5b94ce053a3f148295e77359d6.jpg"></article>]]></description>
+            <link>undefinedv-kaos-introduction/index.html</link>
+            <guid isPermaLink="false">d1b21ce4-4a2f-48e2-9d19-08cd7eb7e0f4</guid>
+            <pubDate>Tue, 23 Feb 2016 07:40:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
