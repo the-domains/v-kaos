@@ -1,0 +1,28 @@
+name: V-kaos
+favicon: null
+layout_spectrum: 0.45836744527332485
+typography_spectrum: 0.7471587033942342
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7377443450968713
+  lightness: 0.7839361836668104
+  saturation: 0.05994076980277896
+  rhythmicContrast: 0.43867674213834107
+purpose: []
